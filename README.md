@@ -58,9 +58,6 @@ const noorFatima = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=noorfatima2006org-design&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorfatima2006org-design&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" width="48%"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=noorfatima2006org-design&theme=nord&hide_border=true&border_color=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
