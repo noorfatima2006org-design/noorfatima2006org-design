@@ -41,22 +41,26 @@ const noorFatima = {
 ## 🛠️ Tech Stack
 
 **Currently Know**
-
+<br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,postgres" />
 
 **Currently Learning (PERN Stack Target)**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react" />
 
 **Dev Tools & Version Control**
-
+<br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<br/>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=noorfatima2006org-design&theme=nord&hide_border=true&include_all_commits=false&count_private=false" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=noorfatima2006org-design&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
 
 <br/>
 
@@ -78,3 +82,5 @@ const noorFatima = {
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
