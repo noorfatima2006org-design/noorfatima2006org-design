@@ -55,6 +55,21 @@ const noorFatima = {
 
 <br/>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/noorfatima2006org-design/CalcHub">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=noorfatima2006org-design&repo=CalcHub&theme=nord&hide_border=true" width="49%"/>
+</a>
+<a href="https://github.com/noorfatima2006org-design/html-CV-Project">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=noorfatima2006org-design&repo=html-CV-Project&theme=nord&hide_border=true" width="49%"/>
+</a>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
